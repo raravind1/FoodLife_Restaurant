@@ -1,0 +1,97 @@
+.h3title{
+    margin-top: 100px;
+    margin-bottom: 20px;
+    font-family: Barlow Semi Condensed;
+}
+
+
+
+.ExploreMenu{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-left: 200px;
+    margin-right: 200px;
+    row-gap: 20px;
+}
+
+.nonvegstarter{
+
+    width: 210px;
+    border-radius: 30px;
+    margin: 10px;
+
+}
+
+
+.div1{
+    box-shadow:  3px 4px 20px rgb(162, 162, 162);
+    height: 290px;
+    width: 230px;
+  
+    
+}
+.div2{
+    box-shadow:  3px 4px 20px rgb(162, 162, 162);
+    height: 290px;
+    width: 230px;
+  
+    
+}
+.div3{
+    box-shadow:  3px 4px 20px rgb(162, 162, 162);
+    height: 290px;
+    width: 230px;
+  
+    
+}
+.div4{
+    box-shadow:  3px 4px 20px rgb(162, 162, 162);
+    height: 290px;
+    width: 230px;
+  
+    
+}
+.div5{
+    box-shadow:  3px 4px 20px rgb(162, 162, 162);
+    height: 290px;
+    width: 230px;
+  
+    
+}
+.div6{
+    box-shadow:  3px 4px 20px rgb(162, 162, 162);
+    height: 290px;
+    width: 230px;
+  
+    
+}
+.div7{
+    box-shadow:  3px 4px 20px rgb(162, 162, 162);
+    height: 290px;
+    width: 230px;
+  
+    
+}
+.div8{
+    box-shadow:  3px 4px 20px rgb(162, 162, 162);
+    height: 290px;
+    width: 230px;
+  
+    
+}
+
+
+
+
+.text1{
+    padding-left: 20px;
+    font-family: Barlow Semi Condensed;
+   font-weight: 500;
+}
+
+.text2{
+    padding-left: 20px;
+    font-family: Barlow Semi Condensed;
+    
+    
+}

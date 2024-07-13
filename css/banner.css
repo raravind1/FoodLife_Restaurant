@@ -1,0 +1,73 @@
+
+
+.banner-section-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size: cover;
+    height: 100vh;  
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex: column;
+    
+}
+
+
+.banner-title{
+    font-family: Barlow Semi Condensed;
+        color: white;
+        font-size: 50px;
+        font-weight: 500;
+        
+    }
+
+.banner-info{
+    font-family: Barlow Semi Condensed;
+    color: white;
+    font-size: 30px;
+    font-weight: 300;
+    
+}
+
+
+.menu-button{
+    width: 130px;
+    height: 45px;
+    color: white;
+    background-color: red;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+.order-button{
+    width: 130px;
+    height: 45px;
+    color: white;
+    background-color: transparent;
+    border-width: 1px;
+    border-color: white;
+    border-style: solid;
+    border-radius: 8px;
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+.text-1{
+    margin-top: 40px;
+    font-family: Barlow Semi Condensed;
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    font-weight: 500;
+
+}
+
+
+
+.text-2{
+    font-family: Barlow Semi Condensed;
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    font-weight: 500;
+}
+

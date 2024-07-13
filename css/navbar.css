@@ -1,0 +1,60 @@
+.logo{
+    height: 80px;
+    
+  }
+  
+  .logo-title{
+  display: inline;
+  font-family: Barlow Semi Condensed;
+  font-weight: bold;
+  color:red;
+  font-size: 30px;
+  }
+  
+  .navbar-custom{
+  background-color: rgb(255, 255, 255);
+  padding: 0;
+  margin: 0;
+  }
+  
+  .nav-bar-items-alligment{
+  margin-bottom: 10px;
+      margin-left: auto;
+  }
+
+  #Navitem1{
+    font-family: Barlow Semi Condensed;
+    font-size: 16px;
+    font-weight: 450;
+    color: red;
+  }
+
+  #Navitem2{
+    font-family: Barlow Semi Condensed;
+    font-size: 16px;
+    font-weight: 450;
+    color: red;
+
+  }
+
+  #Navitem3{
+    font-family: Barlow Semi Condensed;
+    font-size: 16px;
+    font-weight: 450;
+    color: red;
+
+  }
+
+  #Navitem4{
+    font-family: Barlow Semi Condensed;
+    font-size: 16px;
+    font-weight: 450;
+    color: red;
+
+  }
+
+  #nav-margin{
+    margin: 0;
+    }
+
+   

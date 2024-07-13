@@ -1,0 +1,70 @@
+.delivery-payment{
+    margin-top: 100px;
+    display: grid;
+    grid-template-columns: 700px 300px;
+    column-gap: 100px;
+}
+
+.deliveryimage{
+    width: 300px;
+}
+
+.delivery-heading{
+    font-family: Barlow Semi Condensed;
+    padding-bottom: 20px;
+}
+
+
+.delivery-title{
+    font-family: Barlow Semi Condensed;
+}
+
+#order-button{
+display: block;
+width: 130px;
+height: 45px;
+color: white;
+background-color: red;
+border-width: 0;
+border-radius: 8px;
+margin-right: 10px;
+font-size: 20px;
+}
+
+.visa{
+    margin-left: -30px;
+}
+
+
+.follow-grid{
+display: grid;
+justify-content: center;
+grid-template-columns: 100px 100px 100px;
+padding-bottom: 50px;
+}
+
+.follow-title{
+    margin-top: 60px;
+    font-family: Barlow Semi Condensed;
+    text-align: center;
+}
+
+.address{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+   padding-top: 40px;
+    height : 200px;
+    background-color: rgb(255, 69, 69);
+}
+
+h4{
+
+    color: #ffffff;
+}
+
+.add1, .add2 , .add3{
+    color: #ffffff;
+    margin-bottom: 0px;
+    font-family: Barlow Semi Condensed;
+}
